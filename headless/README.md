@@ -26,3 +26,6 @@ Godot Engine v3.2.2.stable.official - https://godotengine.org
 
 Hello, world!
 ```
+
+Feel free to report any issues https://github.com/mtmk/godot-docker/issues
+
