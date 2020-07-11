@@ -5,7 +5,7 @@ Version: Godot Engine v3.2.2.stable.official - https://godotengine.org
 Run your GDScript and unit tests.
 
 ```
-# GDScript hw.gd
+# hw.gd
 extends SceneTree
 
 func _init():
